@@ -1,0 +1,27 @@
+# Currency Converter
+
+## Description
+Currency Converter is a simple Python program that converts an amount from one currency to another using real-time exchange rates. It utilizes the `CurrencyConverter` package, which pulls the latest currency rates from reliable sources.
+
+## Features
+- Converts currency from one format to another.
+- Supports real-time exchange rates.
+- User inputs the amount, the currency to convert from, and the currency to convert to.
+
+## Requirements
+- Python 3.x
+- `currencyconverter` package
+
+## Installation
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/currency-converter.git
+2. Navigate to the project directory:
+   cd currency-converter
+
+3. Install the required dependencies:
+   pip install currencyconverter
+
+4. Contributions
+   Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribute.
